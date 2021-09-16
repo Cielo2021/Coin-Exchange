@@ -15,7 +15,6 @@ const Td = styled.td`;
   width: 24vw;
   `;
   
-  
   const Button = styled.button`
     font-size: 11px;
     width: 64px;
